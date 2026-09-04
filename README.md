@@ -42,6 +42,8 @@ An add-on repository for [Home Assistant](https://www.home-assistant.io) bundlin
 
 <a href="https://github.com/sanderdw/hassio-addons"><img src="https://github.com/sanderdw/hassio-addons/blob/main/images/dsmr_reader.png" width="640" alt="DSMR Reader running in Home Assistant"></a>
 
+<a href="https://github.com/sanderdw/hassio-addons"><img src="https://github.com/sanderdw/hassio-addons/blob/main/images/metabase.png" width="640" alt="Metabase running in Home Assistant"></a>
+
 ---
 
 ## 🚀 [On a Space Journey](https://onaspacejourney.com)
