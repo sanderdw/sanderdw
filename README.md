@@ -55,7 +55,7 @@ everything with your hand via the webcam. No install, no account — just open i
 
 `Three.js` `globe.gl` `d3` `MediaPipe Hands` `WebGL` `Vite`
 
-[**onaspacejourney.com**](https://onaspacejourney.com) 🇬🇧 · [**opruimtereis.nl**](https://opruimtereis.nl) 🇳🇱
+[**onaspacejourney.com**](https://onaspacejourney.com) ENG · [**opruimtereis.nl**](https://opruimtereis.nl) NL
 
 <a href="https://onaspacejourney.com"><img src="https://onaspacejourney.com/og-image-en.png" width="640" alt="On a Space Journey"></a>
 
@@ -70,7 +70,7 @@ layer by layer, point at bones and muscles, and control everything with your han
 
 `Three.js` `MediaPipe Hands` `WebGL` `Vite`
 
-[**onabodyjourney.com**](https://onabodyjourney.com) 🇬🇧 · [**oplijfreis.nl**](https://oplijfreis.nl) 🇳🇱
+[**onabodyjourney.com**](https://onabodyjourney.com) ENG · [**oplijfreis.nl**](https://oplijfreis.nl) NL
 
 <a href="https://onabodyjourney.com"><img src="https://onabodyjourney.com/og-image-en.png" width="640" alt="Body Journey"></a>
 
