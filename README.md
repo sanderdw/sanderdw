@@ -40,7 +40,7 @@ An add-on repository for [Home Assistant](https://www.home-assistant.io) bundlin
 
 [![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fsanderdw%2Fhassio-addons)
 
-<a href="https://github.com/sanderdw/hassio-addons"><img src="https://raw.githubusercontent.com/sanderdw/voltviz/main/images/home-assistant/music-assistant.png" width="640" alt="VoltViz running in Home Assistant"></a>
+<a href="https://github.com/sanderdw/hassio-addons"><img src="https://github.com/sanderdw/hassio-addons/blob/main/images/dsmr_reader.png" width="640" alt="DSMR Reader running in Home Assistant"></a>
 
 ---
 
