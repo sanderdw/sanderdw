@@ -1,7 +1,25 @@
 # Hi, I'm Sander 👋
 
-I build things that make invisible stuff visible — energy data, sound, space and the human body.
+I build things that make invisible stuff visible, energy data, sound, space and the human body.
 
+---
+## 🧊 [Iceberg Data Platform](https://github.com/sanderdw/iceberg-data-platform)
+
+[![Stars](https://img.shields.io/github/stars/sanderdw/iceberg-data-platform?style=flat-square&color=0ea5e9)](https://github.com/sanderdw/iceberg-data-platform)
+[![License](https://img.shields.io/badge/license-Apache--2.0-0ea5e9?style=flat-square)](https://github.com/sanderdw/iceberg-data-platform/blob/main/LICENSE)
+
+An educational, open source [Apache Iceberg](https://iceberg.apache.org) data platform you can run
+locally with Docker Compose. An administration portal manages teams, users and databases on top of
+[Apache Polaris](https://polaris.apache.org), PostgreSQL and [RustFS](https://rustfs.com), while a
+separate user portal gives every team shared [marimo](https://marimo.io) notebooks with isolated
+execution, including examples that write synthetic energy measurements with PyIceberg and query
+them natively with DuckDB.
+
+`Python` `FastAPI` `Apache Iceberg` `Apache Polaris` `DuckDB` `marimo` `RustFS` `PostgreSQL` `Docker`
+
+[**Repo**](https://github.com/sanderdw/iceberg-data-platform) · [**Article on Medium**](https://medium.com/@sanderdw/e89c5d0bed98)
+
+<a href="https://github.com/sanderdw/iceberg-data-platform"><img src="https://raw.githubusercontent.com/sanderdw/iceberg-data-platform/main/docs/portal.png" width="640" alt="Iceberg Data Platform administration portal"></a>
 ---
 
 ## 🎵 [VoltViz](https://github.com/sanderdw/voltviz)
@@ -11,7 +29,7 @@ I build things that make invisible stuff visible — energy data, sound, space a
 
 A dynamic, real-time music visualizer inspired by Winamp & Sonique. Synchronize with your system
 audio, microphone or [Music Assistant](https://music-assistant.io) (through
-[Sendspin](https://www.sendspin-audio.com)) and watch your music come alive — **50+ visualization
+[Sendspin](https://www.sendspin-audio.com)) and watch your music come alive, **50+ visualization
 styles** and switchable Modern / Win95 / Winamp / CRT interface skins.
 
 `React` `TypeScript` `Three.js` `WebGL` `Vite` `Docker`
@@ -29,10 +47,10 @@ styles** and switchable Modern / Win95 / Winamp / CRT interface skins.
 
 An add-on repository for [Home Assistant](https://www.home-assistant.io) bundling four apps:
 
-- **VoltViz** — the music visualizer above, running right inside Home Assistant
-- **DSMR Reader** — extract, store and visualize data from your smart meter's DSMR protocol
-- **DSMR Datalogger** — the standalone logger that feeds it
-- **Metabase** — the easy, open source way for everyone to ask questions and learn from data
+- **VoltViz**, the music visualizer above, running right inside Home Assistant
+- **DSMR Reader**, extract, store and visualize data from your smart meter's DSMR protocol
+- **DSMR Datalogger**, the standalone logger that feeds it
+- **Metabase**, the easy, open source way for everyone to ask questions and learn from data
 
 `Python` `Shell` `Docker` `Home Assistant`
 
@@ -51,7 +69,7 @@ An add-on repository for [Home Assistant](https://www.home-assistant.io) bundlin
 > Travel through space and discover countries, the moon and all the planets!
 
 A free voyage of discovery for kids: spin the globe, fly to the moon and the planets, and steer
-everything with your hand via the webcam. No install, no account — just open it in a browser.
+everything with your hand via the webcam. No install, no account, just open it in a browser.
 
 `Three.js` `globe.gl` `d3` `MediaPipe Hands` `WebGL` `Vite`
 
