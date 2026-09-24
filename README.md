@@ -2,24 +2,47 @@
 
 I build things that make invisible stuff visible, energy data, sound, space and the human body.
 
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-f59e0b?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yLDIxSDIwVjE5SDJNMjAsOEgxOFY1SDIwTTIwLDNINFYxM0E0LDQgMCAwLDAgOCwxN0gxNEE0LDQgMCAwLDAgMTgsMTNWMTBIMjBBMiwyIDAgMCwwIDIyLDhWNUMyMiwzLjg5IDIxLjEsMyAyMCwzWiIvPjwvc3ZnPg%3D%3D)](https://bunq.me/sanderdw)
+
 ---
 ## 🧊 [Iceberg Data Platform](https://github.com/sanderdw/iceberg-data-platform)
 
 [![Stars](https://img.shields.io/github/stars/sanderdw/iceberg-data-platform?style=flat-square&color=0ea5e9)](https://github.com/sanderdw/iceberg-data-platform)
 [![License](https://img.shields.io/badge/license-Apache--2.0-0ea5e9?style=flat-square)](https://github.com/sanderdw/iceberg-data-platform/blob/main/LICENSE)
 
-An educational, open source [Apache Iceberg](https://iceberg.apache.org) data platform you can run
-locally with Docker Compose. An administration portal manages teams, users and databases on top of
-[Apache Polaris](https://polaris.apache.org), PostgreSQL and [RustFS](https://rustfs.com), while a
-separate user portal gives every team shared [marimo](https://marimo.io) notebooks with isolated
-execution, including examples that write synthetic energy measurements with PyIceberg and query
-them natively with DuckDB.
+**An open lakehouse you actually own.** [Apache Iceberg](https://iceberg.apache.org) as the table
+format, with every other building block open source and replaceable:
+[Apache Polaris](https://polaris.apache.org), [Keycloak](https://www.keycloak.org),
+[RustFS](https://rustfs.com), PostgreSQL, [marimo](https://marimo.io) and DuckDB, connected through
+open interfaces (Iceberg REST, S3, OIDC and MCP). It runs on a single laptop with one command.
 
-`Python` `FastAPI` `Apache Iceberg` `Apache Polaris` `DuckDB` `marimo` `RustFS` `PostgreSQL` `Docker`
+Use it as a reference architecture, a classroom, or a personal lab to learn Iceberg hands-on.
 
-[**Repo**](https://github.com/sanderdw/iceberg-data-platform) · [**Article on Medium**](https://medium.com/@sanderdw/e89c5d0bed98)
+`Python` `FastAPI` `Apache Iceberg` `Apache Polaris` `Keycloak` `DuckDB` `marimo` `RustFS` `PostgreSQL` `MCP` `Docker`
+
+[**Repo**](https://github.com/sanderdw/iceberg-data-platform) · [**Presentation**](https://sanderdw.github.io/iceberg-data-platform/) · [**Article on Medium**](https://medium.com/@sanderdw/e89c5d0bed98)
 
 <a href="https://github.com/sanderdw/iceberg-data-platform"><img src="https://raw.githubusercontent.com/sanderdw/iceberg-data-platform/main/docs/portal.png" width="640" alt="Iceberg Data Platform administration portal"></a>
+
+---
+
+## 🕹️ [AWTRIX NG TC002](https://github.com/sanderdw/awtrix-ng-tc002)
+
+[![Stars](https://img.shields.io/github/stars/sanderdw/awtrix-ng-tc002?style=flat-square&color=22c55e)](https://github.com/sanderdw/awtrix-ng-tc002)
+[![License](https://img.shields.io/badge/license-PolyForm--Noncommercial-22c55e?style=flat-square)](https://github.com/sanderdw/awtrix-ng-tc002/blob/main/LICENSE.md)
+
+An unofficial port of Blueforcer's [AWTRIX NG](https://github.com/Blueforcer/awtrix-ng) to the
+Ulanzi TC002 pixel clock, using its native **52 × 16** matrix. The upstream core, renderer, Berry
+scripting, HTTP API, web UI and MQTT run directly on the clock, with the exact upstream MQTT topics
+and Home Assistant discovery. A one-line installer builds and flashes the firmware, and can restore
+stock just as easily.
+
+`C++` `Python` `CMake` `MQTT` `Home Assistant` `Linux/ARMv7`
+
+[**Repo**](https://github.com/sanderdw/awtrix-ng-tc002) · [**AWTRIX NG**](https://blueforcer.github.io/awtrix-ng/)
+
+<a href="https://github.com/sanderdw/awtrix-ng-tc002"><img src="https://raw.githubusercontent.com/sanderdw/awtrix-ng-tc002/main/docs/tc002.jpg" width="640" alt="AWTRIX NG running on a Ulanzi TC002"></a>
+
 ---
 
 ## 🎵 [VoltViz](https://github.com/sanderdw/voltviz)
@@ -94,4 +117,4 @@ layer by layer, point at bones and muscles, and control everything with your han
 
 ---
 
-<sub>[GitHub](https://github.com/sanderdw) · [LinkedIn](https://www.linkedin.com/in/sanderdw/)</sub>
+<sub>[GitHub](https://github.com/sanderdw) · [LinkedIn](https://www.linkedin.com/in/sanderdw/) · [Buy me a coffee ☕](https://bunq.me/sanderdw)</sub>
