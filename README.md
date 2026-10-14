@@ -68,7 +68,7 @@ styles** and switchable Modern / Win95 / Winamp / CRT interface skins.
 [![Stars](https://img.shields.io/github/stars/sanderdw/hassio-addons?style=flat-square&color=41bdf5)](https://github.com/sanderdw/hassio-addons)
 [![License](https://img.shields.io/badge/license-MIT-41bdf5?style=flat-square)](https://github.com/sanderdw/hassio-addons/blob/main/LICENSE)
 
-An add-on repository for [Home Assistant](https://www.home-assistant.io) bundling four apps:
+An app repository for [Home Assistant](https://www.home-assistant.io) bundling four apps:
 
 - **VoltViz**, the music visualizer above, running right inside Home Assistant
 - **DSMR Reader**, extract, store and visualize data from your smart meter's DSMR protocol
@@ -81,9 +81,9 @@ An add-on repository for [Home Assistant](https://www.home-assistant.io) bundlin
 
 [![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fsanderdw%2Fhassio-addons)
 
-<a href="https://github.com/sanderdw/hassio-addons"><img src="https://github.com/sanderdw/hassio-addons/blob/main/images/dsmr_reader.png" width="640" alt="DSMR Reader running in Home Assistant"></a>
+<a href="https://github.com/sanderdw/hassio-addons"><img src="https://raw.githubusercontent.com/sanderdw/hassio-addons/main/images/dsmr_reader.png" width="640" alt="DSMR Reader running in Home Assistant"></a>
 
-<a href="https://github.com/sanderdw/hassio-addons"><img src="https://github.com/sanderdw/hassio-addons/blob/main/images/metabase.png" width="640" alt="Metabase running in Home Assistant"></a>
+<a href="https://github.com/sanderdw/hassio-addons"><img src="https://raw.githubusercontent.com/sanderdw/hassio-addons/main/images/metabase.png" width="640" alt="Metabase running in Home Assistant"></a>
 
 ---
 
@@ -114,6 +114,22 @@ layer by layer, point at bones and muscles, and control everything with your han
 [**onabodyjourney.com**](https://onabodyjourney.com) ENG · [**oplijfreis.nl**](https://oplijfreis.nl) NL
 
 <a href="https://onabodyjourney.com"><img src="https://onabodyjourney.com/og-image-en.png" width="640" alt="Body Journey"></a>
+
+---
+
+## ⚡ [Stroomreis](https://opstroomreis.nl/?lang=en)
+
+> Follow the electricity from the power plant to your wall socket!
+
+A free journey through the power grid for kids: slide from high voltage down to low voltage, past the
+substation and the transformer house, all the way to the socket at home, with a narrator and control
+by hand via the webcam. No install, no account, just open it in a browser.
+
+`Three.js` `MediaPipe Hands` `WebGL` `Vite`
+
+[**opstroomreis.nl**](https://opstroomreis.nl/?lang=en) ENG · [**opstroomreis.nl**](https://opstroomreis.nl) NL
+
+<a href="https://opstroomreis.nl/?lang=en"><img src="https://opstroomreis.nl/og-image-en.png" width="640" alt="Stroomreis"></a>
 
 ---
 
